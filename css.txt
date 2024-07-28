@@ -1,0 +1,58 @@
+# CSS
+
+<aside>
+💡 WHAT IS CSS
+Ans: Cascading Style Sheet
+
+
+</aside>
+
+<aside>
+💡 WHY IS CSS
+Ans: Style to a webpage
+
+
+</aside>
+
+<aside>
+💡 HOW TO CONNECT HTML & CSS , Tell the emmet Shortcut
+Ans: link:css
+
+</aside>
+
+<aside>
+💡 HOW TO GET FONT & COLOR , IMAGE, CDN
+Ans: font-family:####;
+     <img src="" alt=""/>
+
+</aside>
+
+<aside>
+💡 BASIC CSS FAMILY : Text Family, Color & Background Family, Box Model
+Ans: color:green;
+     background-color:red;
+     background-repeat:repeat;etc...
+     w-[100px]; h-[100px]; etc..
+     
+
+</aside>
+
+<aside>
+💡 WHEN TO USE **BACKGROUND IMG** VS **IMG TAG**
+Ans: bg image is used to  put contents on image
+     img tag is used to show image in webpage
+
+</aside>
+
+<aside>
+💡 WHAT IS LAYOUT & Explain About flexbox Properties
+Ans:combine with flex grid.use of responsiveness
+    
+
+</aside>
+
+<aside>
+💡 WHAT IS TAILWIND CSS & WHY IS IT USED
+Ans: css another easiest short method. easiy given style to webpage
+
+</aside>

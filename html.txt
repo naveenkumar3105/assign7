@@ -1,0 +1,59 @@
+<aside>
+💡 WHAT IS HTML
+Ans: Hyper Text Markup Language
+
+</aside>
+
+<aside>
+💡 WHY HTML IS USED
+Ans: To put contents 
+
+</aside>
+
+<aside>
+💡 What is Emmet & List 5 Emmet
+Ans: html:5
+     link:css
+
+</aside>
+
+<aside>
+💡 SHORT CUT CREATE of Emmet Boiler plate of HTML
+Ans: html:5
+
+</aside>
+
+<aside>
+💡 WHAT STRUCTURE OF HTML
+Ans: <html>
+      <head>
+      </head>
+      <body>
+      </body>
+      </html>
+
+</aside>
+
+<aside>
+💡 WHAT IS **HEAD** TAG
+Ans: It have information about webpage(non contents)
+
+</aside>
+
+<aside>
+💡 WHAT IS BODY TAG
+Ans: to put contents tag
+
+</aside>
+
+<aside>
+💡 IMPORTANT 3 ELEMENTS OR TAGS
+Ans: <p></p> <h1></h1> <button></button>  
+</aside>
+
+<aside>
+💡 WHAT IS DIFFERENT B/W ELEMENTS & TAGS IN HTML
+Ans: elements:<p></p> 
+     tags:<img/>
+
+</aside>`1
